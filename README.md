@@ -4,6 +4,13 @@ useing esp32 wecan build various projects. its my first project so lets learn to
 
 ---
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `README.md`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
