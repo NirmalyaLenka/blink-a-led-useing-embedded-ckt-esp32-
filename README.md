@@ -54,7 +54,7 @@ This is a **provisional learning BOM**, not a verified build-specific parts list
 
 ## Maintenance & audit
 
-- **Last updated:** 10 November 2026
+- **Last updated:** 11 November 2026
 - **Review scope:** Compared documentation with the currently tracked repository contents.
 - **Result:** Only `README.md` is present in the root listing; firmware, wiring files, and test evidence were not found.
 - **Verification:** No firmware was changed or tested because no sketch is tracked in this repository. The BOM above is explicitly provisional.
